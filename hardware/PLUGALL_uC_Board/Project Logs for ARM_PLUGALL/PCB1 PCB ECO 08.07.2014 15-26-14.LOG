@@ -1,0 +1,71 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C13(0805)
+Added Component: Designator=C14(0805)
+Added Component: Designator=R2(R_0603)
+Added Component: Designator=R3(R_0603)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=VCC Pin=U2-24
+Added Pin To Net: NetName=CS0_3V3 Pin=U2-10
+Added Net: Name=CS0_3V3
+Added Pin To Net: NetName=CS0 Pin=U2-14
+Added Pin To Net: NetName=CS0 Pin=X1-6
+Added Net: Name=CS0
+Added Pin To Net: NetName=CS1_3V3 Pin=U2-9
+Added Net: Name=CS1_3V3
+Added Pin To Net: NetName=CS1 Pin=U2-15
+Added Pin To Net: NetName=CS1 Pin=X1-8
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2_3V3 Pin=U2-8
+Added Net: Name=CS2_3V3
+Added Pin To Net: NetName=CS2 Pin=U2-16
+Added Pin To Net: NetName=CS2 Pin=X1-10
+Added Net: Name=CS2
+Added Pin To Net: NetName=CS3_3V3 Pin=U2-7
+Added Net: Name=CS3_3V3
+Added Pin To Net: NetName=CS3 Pin=U2-17
+Added Pin To Net: NetName=CS3 Pin=X1-12
+Added Net: Name=CS3
+Added Pin To Net: NetName=DAC0_3V3 Pin=U2-5
+Added Net: Name=DAC0_3V3
+Added Pin To Net: NetName=DAC0 Pin=U2-19
+Added Pin To Net: NetName=DAC0 Pin=X1-17
+Added Net: Name=DAC0
+Added Pin To Net: NetName=DAC1_3V3 Pin=U2-6
+Added Net: Name=DAC1_3V3
+Added Pin To Net: NetName=DAC1 Pin=U2-18
+Added Pin To Net: NetName=DAC1 Pin=X1-19
+Added Net: Name=DAC1
+Added Pin To Net: NetName=MOSI Pin=U2-21
+Added Pin To Net: NetName=MOSI Pin=X1-7
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-22
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NSS Pin=U2-20
+Added Pin To Net: NetName=NSS Pin=X1-11
+Added Net: Name=NSS
+Added Class: Name=CS[0..3]
+Added Class: Name=DAC[0..1]
+Added Member To Class: ClassName=LevelConverter Member=Component C1 C
+Added Member To Class: ClassName=LevelConverter Member=Component C2 C
+Added Member To Class: ClassName=LevelConverter Member=Component C13 C
+Added Member To Class: ClassName=LevelConverter Member=Component C14 C
+Added Member To Class: ClassName=LevelConverter Member=Component R2 R
+Added Member To Class: ClassName=LevelConverter Member=Component R3 R

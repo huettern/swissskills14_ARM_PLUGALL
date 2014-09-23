@@ -1,0 +1,47 @@
+Added Component: Designator=R1(R_0603)
+Added Component: Designator=U2(TSSOP24)
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=DATA_TR Pin=U2-2
+Added Pin To Net: NetName=D0_3V3 Pin=U2-3
+Added Pin To Net: NetName=D1_3V3 Pin=U2-4
+Added Pin To Net: NetName=D2_3V3 Pin=U2-5
+Added Pin To Net: NetName=D3_3V3 Pin=U2-6
+Added Pin To Net: NetName=D4_3V3 Pin=U2-7
+Added Pin To Net: NetName=D5_3V3 Pin=U2-8
+Added Pin To Net: NetName=D6_3V3 Pin=U2-9
+Added Pin To Net: NetName=D7_3V3 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=VCC Pin=U2-24
+Added Pin To Net: NetName=D0 Pin=U2-14
+Added Pin To Net: NetName=D0 Pin=X1-14
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=U2-15
+Added Pin To Net: NetName=D1 Pin=X1-16
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=U2-16
+Added Pin To Net: NetName=D2 Pin=X1-18
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=U2-17
+Added Pin To Net: NetName=D3 Pin=X1-20
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=U2-18
+Added Pin To Net: NetName=D4 Pin=X1-22
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=U2-19
+Added Pin To Net: NetName=D5 Pin=X1-24
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=U2-20
+Added Pin To Net: NetName=D6 Pin=X1-26
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=U2-21
+Added Pin To Net: NetName=D7 Pin=X1-28
+Added Net: Name=D7
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-22
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=LevelConverter Member=Component R1 R
+Added Member To Class: ClassName=LevelConverter Member=Component U2 74LVX3245
+Added Member To Class: ClassName=LevelConverter Member=Component X1 PLUGALL_Bus_Con
+Added Member To Class: ClassName=Power Member=Component X1 Socket_2mm

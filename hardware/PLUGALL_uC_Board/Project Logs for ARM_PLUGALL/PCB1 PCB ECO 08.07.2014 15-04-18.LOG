@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=LevelConverter Member=X2
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Member To Class: ClassName=LevelConverter Member=Component X1 PLUGALL_Bus_Con
+Added Member To Class: ClassName=Power Member=Component X2 Socket_2mm

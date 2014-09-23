@@ -1,0 +1,7 @@
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=R3(R_0603)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Net: Name=NetD1_1

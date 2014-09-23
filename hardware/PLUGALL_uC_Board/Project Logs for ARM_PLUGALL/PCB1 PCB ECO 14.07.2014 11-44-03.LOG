@@ -1,0 +1,32 @@
+Added Component: Designator=D2(D_0603)
+Added Component: Designator=D3(D_0603)
+Added Component: Designator=D4(D_0603)
+Added Component: Designator=D5(D_0603)
+Added Component: Designator=R4(R_0603)
+Added Component: Designator=R17(R_0603)
+Added Component: Designator=R18(R_0603)
+Added Component: Designator=R19(R_0603)
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=DAC0_3V3 Pin=R18-2
+Added Pin To Net: NetName=DAC1_3V3 Pin=R19-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R17-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R18-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R19-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-54
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U1-53
+Added Net: Name=NetR17_2

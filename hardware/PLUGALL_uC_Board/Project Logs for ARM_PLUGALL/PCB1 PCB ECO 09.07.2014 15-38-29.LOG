@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NSS_3V3 Pin=U1-20
+Added Pin To Net: NetName=SCK_3V3 Pin=U1-21
+Added Pin To Net: NetName=MISO_3V3 Pin=U1-22
+Added Pin To Net: NetName=MOSI_3V3 Pin=U1-23

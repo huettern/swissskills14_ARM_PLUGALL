@@ -1,0 +1,28 @@
+Change Component Comment : Designator=R13 Old Comment=4k7 New Comment=R
+Change Component Comment : Designator=R14 Old Comment=4k7 New Comment=R
+Change Component Comment : Designator=R15 Old Comment=4k7 New Comment=R
+Change Component Comment : Designator=R16 Old Comment=4k7 New Comment=R
+Added Component: Designator=R5(R_0603)
+Added Component: Designator=R6(R_0603)
+Added Component: Designator=R7(R_0603)
+Added Component: Designator=R8(R_0603)
+Added Component: Designator=R9(R_0603)
+Added Component: Designator=R10(R_0603)
+Added Component: Designator=R11(R_0603)
+Added Component: Designator=R12(R_0603)
+Added Pin To Net: NetName=AIN0 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=AIN1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=AIN2 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=AIN3 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=AIN0 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=AIN1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=AIN2 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=AIN3 Pin=R12-2

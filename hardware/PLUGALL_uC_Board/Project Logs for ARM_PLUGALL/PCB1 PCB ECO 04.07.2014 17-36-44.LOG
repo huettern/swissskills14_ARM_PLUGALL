@@ -1,0 +1,20 @@
+Added Component: Designator=X1(2MM_BANANA)
+Added Component: Designator=X2(2MM_BANANA)
+Added Component: Designator=X3(2MM_BANANA)
+Added Component: Designator=X4(2MM_BANANA)
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U1-19
+Added Pin To Net: NetName=NetU1_13 Pin=U1-32
+Added Pin To Net: NetName=NetU1_13 Pin=U1-64
+Added Pin To Net: NetName=NetU1_13 Pin=X1-1
+Added Pin To Net: NetName=NetU1_13 Pin=X1-2
+Added Net: Name=NetU1_13
+Added Class: Name=Power
+Added Room: Name=Power

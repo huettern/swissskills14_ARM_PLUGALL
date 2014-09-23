@@ -1,0 +1,3 @@
+Added Component: Designator=D1(C6032_POL)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2

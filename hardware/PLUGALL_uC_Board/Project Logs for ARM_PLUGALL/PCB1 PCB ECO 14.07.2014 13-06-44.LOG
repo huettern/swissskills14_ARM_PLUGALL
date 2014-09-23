@@ -1,0 +1,5 @@
+Added Component: Designator=R4(R_0603)
+Added Pin To Net: NetName=/RESET Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=/RESET Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2

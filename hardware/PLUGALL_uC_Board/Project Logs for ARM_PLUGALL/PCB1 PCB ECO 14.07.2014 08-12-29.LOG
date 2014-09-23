@@ -1,0 +1,13 @@
+Added Component: Designator=R1(R_0603)
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=CP0_3V3 Pin=U1-3
+Added Pin To Net: NetName=CP1_3V3 Pin=U1-5
+Added Pin To Net: NetName=AIN3 Pin=U1-8
+Added Pin To Net: NetName=AIN2 Pin=U1-9
+Added Pin To Net: NetName=AIN1 Pin=U1-10
+Added Pin To Net: NetName=AIN0 Pin=U1-11
+Added Pin To Net: NetName=SCL_3V3 Pin=U1-58
+Added Pin To Net: NetName=SDA_3V3 Pin=U1-59
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-60
+Added Net: Name=NetR1_2

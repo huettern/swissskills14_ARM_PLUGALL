@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=INT1 Pin=U1-41
+Added Pin To Net: NetName=INT0 Pin=U1-50
+Added Pin To Net: NetName=DAC0_3V3 Pin=U1-51
+Added Pin To Net: NetName=DAC1_3V3 Pin=U1-52

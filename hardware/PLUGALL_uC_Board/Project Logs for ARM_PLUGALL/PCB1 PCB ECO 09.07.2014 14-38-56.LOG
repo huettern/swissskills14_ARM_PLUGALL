@@ -1,0 +1,27 @@
+Added Component: Designator=X6(HDR1X5H)
+Added Component: Designator=X7(HDR2X5H)
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U3-22
+Added Pin To Net: NetName=GND Pin=X6-1
+Added Pin To Net: NetName=3V3 Pin=X7-1
+Added Pin To Net: NetName=GND Pin=X7-3
+Added Pin To Net: NetName=GND Pin=X7-5
+Added Pin To Net: NetName=GND Pin=X7-9
+Added Pin To Net: NetName=/RESET Pin=U1-7
+Added Pin To Net: NetName=/RESET Pin=X7-10
+Added Net: Name=/RESET
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Pin To Net: NetName=SWCLK Pin=X7-4
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDAT Pin=U1-46
+Added Pin To Net: NetName=SWDAT Pin=X7-2
+Added Net: Name=SWDAT
+Added Pin To Net: NetName=SWO Pin=U1-55
+Added Pin To Net: NetName=SWO Pin=X7-6
+Added Net: Name=SWO
+Added Pin To Net: NetName=USART1_RX Pin=U1-42
+Added Pin To Net: NetName=USART1_RX Pin=U1-43
+Added Pin To Net: NetName=USART1_RX Pin=X6-4
+Added Pin To Net: NetName=USART1_RX Pin=X6-5
+Added Net: Name=USART1_RX

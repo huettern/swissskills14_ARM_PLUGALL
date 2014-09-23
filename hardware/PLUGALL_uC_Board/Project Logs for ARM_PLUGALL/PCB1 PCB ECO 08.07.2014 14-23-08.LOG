@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=LevelConverter Member=X2
+Change Component Footprint: Designator=C3 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C4 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C5 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C6 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C7 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C8 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C9 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C10 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C11 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C12 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=R2 Old Footprint=R_0805 New Footprint=R_0603
+Added Member To Class: ClassName=LevelConverter Member=Component X1 PLUGALL_Bus_Con
+Added Member To Class: ClassName=Power Member=Component X2 Socket_2mm

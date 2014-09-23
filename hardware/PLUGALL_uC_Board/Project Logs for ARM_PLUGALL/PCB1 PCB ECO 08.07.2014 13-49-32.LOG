@@ -1,0 +1,61 @@
+Added Component: Designator=C1(C6032_POL)
+Added Component: Designator=C2(C6032_POL)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=C?(1206)
+Added Component: Designator=U3(TSSOP24)
+Added Component: Designator=U?(1206)
+Added Component: Designator=U?(SOT-223)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-13
+Added Pin To Net: NetName=3V3 Pin=U1-19
+Added Pin To Net: NetName=3V3 Pin=U1-32
+Added Pin To Net: NetName=3V3 Pin=U1-64
+Added Pin To Net: NetName=3V3 Pin=U?-3
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U1-17
+Added Pin To Net: NetName=NetC?_2 Pin=U?-1
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=Power Member=Component C1 C
+Added Member To Class: ClassName=Power Member=Component C2 C
+Added Member To Class: ClassName=Power Member=Component C? C
+Added Member To Class: ClassName=LevelConverter Member=Component U3 74LVX3245
+Added Member To Class: ClassName=Power Member=Component U? PM-REF-LM113-SOT3

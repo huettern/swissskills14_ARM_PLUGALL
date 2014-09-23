@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DAC1 Pin=U2-18
+Removed Pin From Net: NetName=DAC0 Pin=U2-19
+Removed Pin From Net: NetName=NSS Pin=U2-20
+Removed Pin From Net: NetName=MOSI Pin=U2-21
+Added Pin To Net: NetName=MOSI Pin=U2-18
+Added Pin To Net: NetName=NSS Pin=U2-19
+Added Pin To Net: NetName=DAC0 Pin=U2-20
+Added Pin To Net: NetName=DAC1 Pin=U2-21

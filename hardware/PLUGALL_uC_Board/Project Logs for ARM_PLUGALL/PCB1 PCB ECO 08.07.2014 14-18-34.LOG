@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=LevelConverter Member=X2
+Change Component Footprint: Designator=U5 Old Footprint=1206 New Footprint=SOT-23
+Change Component Comment : Designator=U5 Old Comment=PM-REF-LM113-SOT3 New Comment=V_REF
+Added Component: Designator=R2(R_0805)
+Added Pin To Net: NetName=NetC5_2 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Member To Class: ClassName=Power Member=Component C5 C
+Added Member To Class: ClassName=Power Member=Component R2 R
+Added Member To Class: ClassName=LevelConverter Member=Component X1 PLUGALL_Bus_Con
+Added Member To Class: ClassName=Power Member=Component X2 Socket_2mm
